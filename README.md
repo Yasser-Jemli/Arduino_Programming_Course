@@ -12,6 +12,17 @@ Thisd is a repository that i will share in it my arduino course
 it's designed for beginner's who want's a deep undrestanding of arduino to get thier project done 
 also i will share another repository that will take arduino to another level and explain it as a fully embedded system
 
+
+
+
+
+
+
+https://user-images.githubusercontent.com/92098387/175500093-c6e21e3c-4989-456a-819b-f71114d43ff8.mp4
+
+
+
+
 i will share the instruction that you need to follow in this course 
 and i will put the link of my youTube channel to watch the course 
 now everything is under construction 
